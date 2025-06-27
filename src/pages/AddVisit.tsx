@@ -1,4 +1,3 @@
-
 export function AddVisit() {
     return (
       <div>
