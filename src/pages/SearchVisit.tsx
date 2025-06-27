@@ -1,4 +1,4 @@
-export function Search() {
+export function SearchVisit() {
   return (
     <div>
       <h1>Service Parts</h1>
