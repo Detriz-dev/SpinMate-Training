@@ -10,8 +10,7 @@ function App() {
     <Navigation/>
     <Home></Home>
     </>
- 
-    
+
   )
 }
 
